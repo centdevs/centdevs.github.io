@@ -33,6 +33,5 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 ## Contact Information
 
 For more queries and frequent updates you can contact us by:
-
     *EMAIL* - centdevs@gmail.com
     *TELEGRAM* - [Cent Devs Channel](https://t.me/centdev_channel)
