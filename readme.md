@@ -10,6 +10,7 @@ This app tracks basic information about it's users. This information includes, b
 ## Advertisement and Other Third Parties
 
 Advertising partners and other third parties may use cookies, scripts and/or web beacons to track users activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This app has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+Each content presented in the advertisements in this app is not in anyway our opinion and might be misleading.
 
 
 ## Links to Third Party Websites
@@ -31,5 +32,6 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send us an email to centdevs@gmail.com.
-You can also join our [telegram channel](https://t.me/centdev_channel) for frequent updates
+For more queries you can contact us by:
+    *EMAIL* - centdevs@gmail.com
+    *TELEGRAM* - [Cent Devs Channel](https://t.me/centdev_channel)
