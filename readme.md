@@ -1,3 +1,5 @@
+# PRiVACY POLICY
+
 # 1. WHAT INFORMATION DO WE COLLECT?
 
 Personal information you disclose to us
