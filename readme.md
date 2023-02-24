@@ -128,7 +128,7 @@ If you would at any time like to review or change the information in your accoun
 Contact us using the contact information provided.
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
 
-If you have questions or comments about your privacy rights, you may email us at gaboultechstudio@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at centdevs@gmail.com.
 
 # 9. CONTROLS FOR DO-NOT-TRACK FEATURES
 
