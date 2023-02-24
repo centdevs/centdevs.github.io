@@ -1,6 +1,6 @@
-# PRiVACY POLICY
+# **PRIVACY POLICY**
 
-# 1. WHAT INFORMATION DO WE COLLECT?
+### 1. WHAT INFORMATION DO WE COLLECT?
 
 Personal information you disclose to us
 
@@ -9,10 +9,10 @@ In Short: We collect personal information that you provide to us.
 We collect personal information that you voluntarily provide to us when you register on the Services, express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 
 Personal Information Provided by You. The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
-   -names
-   -email addresses
-   -usernames
-   -passwords
+   ⋅⋅1. names
+   ⋅⋅1. email addresses
+   ⋅⋅1. usernames
+   ⋅⋅1. passwords
  *Sensitive Information*. We do not process sensitive information.
 
 *Social Media Login Data*. We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter, or other social media account. If you choose to register in this way, we will collect the information described in the section called "HOW DO WE HANDLE YOUR SOCIAL LOGINS?" below.
